@@ -1,4 +1,6 @@
-# Fernanda Forero — QA Engineer
+<img width="2560" height="1440" alt="QA ENGINEER (1)" src="https://github.com/user-attachments/assets/4ebe6119-ee54-4eb2-8d12-a659e659ffc9" /># Fernanda Forero — QA Engineer
+![Uploading QA ENGINEER (1).png…]()
+
 
 🔗 [LinkedIn](https://www.linkedin.com/in/fernanda-forero/)
 
