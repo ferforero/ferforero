@@ -1,5 +1,3 @@
-<img width="2560" height="1440" alt="QA ENGINEER (1)" src="https://github.com/user-attachments/assets/4ebe6119-ee54-4eb2-8d12-a659e659ffc9" /># 
-
 <img width="2560" height="1440" alt="QA ENGINEER" src="https://github.com/user-attachments/assets/50c7f282-e2f4-4e6d-ae9b-19426a51b9bf" />
 
 
