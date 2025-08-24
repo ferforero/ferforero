@@ -1,4 +1,5 @@
-<img width="2560" height="1440" alt="QA ENGINEER" src="https://github.com/user-attachments/assets/50c7f282-e2f4-4e6d-ae9b-19426a51b9bf" />
+
+<img width="1172" height="600" alt="Screenshot 2025-08-24 at 4 14 16 PM" src="https://github.com/user-attachments/assets/9350a8e8-abee-4bae-afab-fbe652adfa91" />
 
 
 ---
