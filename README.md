@@ -16,6 +16,20 @@ Mi filosofía QA:
 - **Colaboración real**: Trabajo mano a mano con desarrolladores y PMs para asegurar entregas ágiles y eficientes.
 - **Calidad visible**: Cada release lleva mi sello, garantizando que la confiabilidad y la excelencia sean protagonistas.
 
+ ⭐ Proyectos destacados
+- **Urban Routes — UI E2E (POM)**
+*Problema:* flujo de pruebas **optimizado** para funciones críticas.
+*Stack:* Python, Pytest, Selenium, POM, WebDriverWait.
+*Repo:* https://github.com/ferforero/qa-project-Urban-Routes-es
+- **Urban Grocers — API: `firstName` en creación de **kit** (boundary tests, 9 casos)**
+*Problema:* validar reglas de negocio y contrato REST para `firstName` al crear **kits**.
+*Stack:* Python, Pytest, Requests, JSON, Postman.
+*Repo:* https://github.com/ferforero/qa-project-Urban-Grocers-app-es
+- **Urban Grocers — API: `firstName` en creación de **usuario** (automatizado)**
+*Problema:* asegurar validaciones de `firstName` al crear **usuarios** vía API.
+*Stack:* Python, Pytest, Requests, JSON, Postman.
+*Repo:* https://github.com/ferforero/api_stand_tests
+
 ¿Buscas alguien que transforme el testing en ventaja competitiva?  
 ¡Conectemos y llevemos tu producto al siguiente nivel!
 
